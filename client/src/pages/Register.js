@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import { Logo } from '../components';
+import Logo from '../assets/images/logo.svg';
 import Wrapper from '../assets/wrappers/RegisterPage';
 // global context and useNavigate later
 
